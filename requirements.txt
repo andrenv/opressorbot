@@ -50,7 +50,6 @@ google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 greenlet==1.1.0
 grpcio==1.38.0
-h5py==2.10.0
 html5lib==1.1
 idna==3.2
 importlib-metadata==3.10.1
